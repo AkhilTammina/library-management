@@ -1,0 +1,14 @@
+[
+    {
+        "id": "B001",
+        "title": "java",
+        "author": "james",
+        "available": true
+    },
+    {
+        "id": "B002",
+        "title": "python",
+        "author": "david",
+        "available": true
+    }
+]
